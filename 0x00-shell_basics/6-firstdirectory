@@ -1,2 +1,2 @@
 #!/bin/bash
-echo '/tmp/my_first_directory)'
+echo 'file /tmp/my_first_directory)'
