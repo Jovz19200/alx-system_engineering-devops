@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "good day"
+echo "good day $(ls 0x00-shell_basics)"
