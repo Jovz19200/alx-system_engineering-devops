@@ -12,3 +12,4 @@ shell permissions break down
 10 . mirror permissions
 11. directories permissions
 12. directory permissions extended
+13. changing the group
