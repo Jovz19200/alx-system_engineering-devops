@@ -6,3 +6,4 @@ shell permissions break down
 4. create an empty file
 5. execute
 6. multiple permissions
+7. everybody
