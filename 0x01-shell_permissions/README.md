@@ -10,3 +10,4 @@ shell permissions break down
 8. James_bond
 9. John_DOE
 10 . mirror permissions
+11. directories permissions
