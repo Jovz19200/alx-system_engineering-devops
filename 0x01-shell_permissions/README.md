@@ -7,3 +7,4 @@ shell permissions break down
 5. execute
 6. multiple permissions
 7. everybody
+8. James_bond
