@@ -14,3 +14,5 @@ shell permissions break down
 12. directory permissions extended
 13. changing the group
 13. changing the owner ad the group simultaneously
+14. change the owner and the group at the same time -100
+15. symbolic link permissions
