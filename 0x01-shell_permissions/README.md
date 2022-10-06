@@ -11,3 +11,4 @@ shell permissions break down
 9. John_DOE
 10 . mirror permissions
 11. directories permissions
+12. directory permissions extended
