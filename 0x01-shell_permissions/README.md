@@ -8,3 +8,4 @@ shell permissions break down
 6. multiple permissions
 7. everybody
 8. James_bond
+9. John_DOE
