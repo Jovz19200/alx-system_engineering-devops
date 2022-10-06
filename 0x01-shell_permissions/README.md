@@ -9,7 +9,8 @@ shell permissions break down
 7. everybody
 8. James_bond
 9. John_DOE
-10 . mirror permissions
+10. mirror permissions
 11. directories permissions
 12. directory permissions extended
 13. changing the group
+13. changing the owner ad the group simultaneously
