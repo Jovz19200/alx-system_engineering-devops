@@ -16,3 +16,4 @@ shell permissions break down
 13. changing the owner ad the group simultaneously
 14. change the owner and the group at the same time -100
 15. symbolic link permissions
+16. if only
