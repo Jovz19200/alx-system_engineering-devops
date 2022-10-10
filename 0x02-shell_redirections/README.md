@@ -9,3 +9,4 @@ shell redirections break down
 7. file
 8. cwd state
 9. duplicate last line
+10. no more js
