@@ -3,3 +3,4 @@ shell redirections break down
 1. confused smiley
 2. hello file
 3. two file display
+4. last ten line 
