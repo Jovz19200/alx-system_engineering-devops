@@ -11,3 +11,7 @@ shell redirections break down
 9. duplicate last line
 10. no more js
 11. directories
+12. newest file
+13. unique
+14. find that word
+15. count that word
