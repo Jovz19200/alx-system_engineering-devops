@@ -5,3 +5,4 @@ shell redirections break down
 3. two file display
 4. last ten line 
 5. first lines
+3. third line
