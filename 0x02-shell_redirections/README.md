@@ -8,3 +8,4 @@ shell redirections break down
 3. third line
 7. file
 8. cwd state
+9. duplicate last line
