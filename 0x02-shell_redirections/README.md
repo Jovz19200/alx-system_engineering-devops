@@ -4,3 +4,4 @@ shell redirections break down
 2. hello file
 3. two file display
 4. last ten line 
+5. first lines
