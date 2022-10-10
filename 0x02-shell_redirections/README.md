@@ -10,3 +10,4 @@ shell redirections break down
 8. cwd state
 9. duplicate last line
 10. no more js
+11. directories
