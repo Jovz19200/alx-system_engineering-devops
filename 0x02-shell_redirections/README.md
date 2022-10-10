@@ -6,3 +6,4 @@ shell redirections break down
 4. last ten line 
 5. first lines
 3. third line
+7. file
