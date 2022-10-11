@@ -22,3 +22,7 @@ shell redirections break down
 20. hiago
 21. reverse
 22. users and homes
+23. empty casks
+24. gifs
+25. acrostic
+26. the biggest fan
