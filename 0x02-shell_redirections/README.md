@@ -15,3 +15,10 @@ shell redirections break down
 13. unique
 14. find that word
 15. count that word
+16. whats next
+17. hide this word
+18. letter only
+19. A to Z
+20. hiago
+21. reverse
+22. users and homes
