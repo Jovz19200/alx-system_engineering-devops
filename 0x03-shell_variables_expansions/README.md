@@ -8,5 +8,13 @@ shell variables and expansions
 6. create local variable
 7. create global variable
 8. true knowledge
-9. divide and rule10. love exponent breath
+9. divide and rule
+10. love exponent breath
 11. binary to decimal
+12. combinations
+13. print float
+14. decimal to hexadecimal
+15. rot13 encryption
+16. odd
+17. water and stir
+
