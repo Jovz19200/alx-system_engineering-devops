@@ -9,3 +9,4 @@ shell variables and expansions
 7. create global variable
 8. true knowledge
 9. divide and rule10. love exponent breath
+11. binary to decimal
